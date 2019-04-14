@@ -58,8 +58,6 @@ body{
 	font-size: 32px;
 	text-align: center;
 	color: #E3B648;
-	
-	
 }
 .barka-encabezado{
 	background-color: #A90B1A;
@@ -108,6 +106,10 @@ body{
 .barka-vision-contenido-historia{
 	text-align: justify;
 
+}
+.barka-productos-titulo{
+	text-align: center;
+	
 }
 .barka-productos-lista{
 	list-style: none;
