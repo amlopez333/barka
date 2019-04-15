@@ -50,11 +50,12 @@
 
 body{
 	background-color: rgba(212,159, 28,0.3);
+	font: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
 }
 
 
 .barka-encabezado-titulo{
-	font: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	
 	font-size: 32px;
 	text-align: center;
 	color: #E3B648;
@@ -71,6 +72,7 @@ body{
 	list-style-type: none;
 	display: flex;
 	justify-content: space-around;
+	text-transform: capitalize;
 }
 .barka-encabezado-menu-lista-elemento>a{
 	display:inline-block;
@@ -81,7 +83,8 @@ body{
 }
 
 .barka-historia-contenido-titulo{
-	text-align:center;
+	text-align: center;
+	text-transform: capitalize;
 }
 .barka-historia-contenido-historia{
 	text-align: justify;
@@ -101,7 +104,8 @@ body{
 }
 
 .barka-vision-contenido-titulo{
-	text-align:center;
+	text-align: center;
+	text-transform: capitalize; ;
 }
 .barka-vision-contenido-historia{
 	text-align: justify;
@@ -109,7 +113,7 @@ body{
 }
 .barka-productos-titulo{
 	text-align: center;
-	
+	text-transform: capitalize;
 }
 .barka-productos-lista{
 	list-style: none;
