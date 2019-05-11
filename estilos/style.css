@@ -79,7 +79,8 @@ body{
 	color: #ffffff !important;
 }
 .barka-historia-contenido{
-	
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .barka-historia-contenido-titulo{
@@ -90,7 +91,8 @@ body{
 	text-align: justify;
 }
 .barka-mision-contenido{
-	
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .barka-mision-contenido-titulo{
@@ -100,7 +102,8 @@ body{
 	text-align: justify;
 }
 .barka-vision-contenido{
-	
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .barka-vision-contenido-titulo{
